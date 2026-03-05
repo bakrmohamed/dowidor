@@ -1,0 +1,1 @@
+Exploiting the IDOR vulnerability, this script retrieves all images from the server by sending the compromised link. It then sends a request to the server each time, assuming the images are numbered from 1 to 1,000,000, and saves each image it retrieves from the server to your device.
